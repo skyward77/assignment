@@ -1,7 +1,7 @@
 package week_1.Day_3;
 
 
-import java.util.*;
+
 
 public class square{
 
